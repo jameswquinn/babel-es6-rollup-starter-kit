@@ -1,0 +1,26 @@
+{
+  "name": "babel-es6-rollup-starter-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/othree/babel-es6-rollup-starter-kit.git"
+  },
+  "author": "othree",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/othree/babel-es6-rollup-starter-kit/issues"
+  },
+  "homepage": "https://github.com/othree/babel-es6-rollup-starter-kit#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015-rollup": "^1.1.1",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "rollup-plugin-babel": "^2.3.9"
+  }
+}
